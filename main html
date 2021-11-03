@@ -1,0 +1,93 @@
+<div class="header">
+      <div class="headerlogo">
+        BAEBUL
+      </div>
+      <div class="headerlist">
+        <ul>
+          <li>Log in</li>
+          <li>About Us</li>
+          <li>Menu</li>
+          <li>Contact us</li>
+        </ul>
+        </div>
+    </div>
+<div class="title">
+  <div class= "overlay">
+    <h1>EAT TILL YOU BAEBUL</h1>
+    <p> Korean restaurant where you can find various of food with different kind of tastes. Fast serving food with<br>Korean culture gives a wonderful experience to our customer. </p>
+    <div class="Button">
+      <button class="btn-1">MENU BOOK</button>
+  </div>
+</div>
+</div>
+<div class="contents">
+  <h1 class = "ChefRec1">
+    CHEF RECOMMENDATION<h1>
+  <div class= "ChefRec">
+    <div class="contents-item">
+      <div class="image">
+         <img class="image__g"          src="https://i.ibb.co/8M0ndk5/bibimbap.png">
+      </div>
+<p class="FOOD">Bibimbap</P>
+<p class="FOODS">Bibimbap, sometimes romanized as bi bim bap or bi bim bop, is a Korean rice dish. The term "bibim" means mixing rice, while the "bap" noun refers to rice.</P>
+  </div>
+<div class= "ChefRec">
+    <div class="contents-item">
+<img class="image__g" src="https://i.ibb.co/RYVG8JK/tteokgalbi.png">
+<p class="FOOD">Tteokgalbi</P>
+<p class="FOODS">Tteokgalbi is a delicious Korean dish made from beef ribs, where the meat is minced and pounded on the bone, then marinated in a sweet, salty, and savory sauce, and then grilled or barbecued over charcoal.</P>
+  </div>
+<div class= "ChefRec">
+    <div class="contents-item">
+<img class="image__g" src="https://i.ibb.co/4pswqWh/samgyetang.png">
+<p class="FOOD">Samgyetang</P>
+<p class="FOODS">Samgye-tang or ginseng chicken soup, meaning ginseng - chicken - soup in Korean, consists primarily of a whole young chicken filled with garlic, rice, jujube, and ginseng. Samgye-tang is a Korean traditional soup for body health. Samgye-tang is a representative summer health food.</P>
+  </div>
+  
+  </div>
+<div class="contents">
+  <h1 class = "ChefRec1">SPECIAL PROMO<h1>
+  <div class= "ChefRec">
+    <div class="contents-item">
+      <div class="image">
+         <img class="image__g"          src="https://i.ibb.co/Mk2gMTw/chicken-wings.png">
+      </div>
+<p class="FOOD">Chicken Wings</P>
+<p class="FOODS">Crazy addictive baked Korean chicken wings with sweet and savory Korean red pepper sauce. Finger lickin' good!</P>
+  </div>
+<div class= "ChefRec">
+    <div class="contents-item">
+<img class="image__g" src="https://i.ibb.co/0CBZVHZ/galbi.png">
+<p class="FOOD">Galbi</P>
+<p class="FOODS">Galbi, galbi-gui, or grilled ribs is a type of gui in Korean cuisine. "Galbi" is the Korean word for "rib", and the dish is usually made with beef short ribs. When pork spareribs or another meat is used instead, the dish is named accordingly.</P>
+  </div>
+<div class= "ChefRec">
+    <div class="contents-item">
+<img class="image__g" src="https://i.ibb.co/cFJHN1X/Gimbab.png">
+<p class="FOOD">Gimbap</P>
+<p class="FOODS">Gimbap, also romanized as kimbap, is a Korean dish made from cooked rice and ingredients such as vegetables, fish and meats that are rolled in gim—dried sheets of seaweed—and served in bite-sized slices.</P>
+  </div>
+</div>
+
+ <style>
+body {
+  background-image: url(https://i.ibb.co/7CCPvJC/Untitled-2444.png);
+  background-repeat: repeat;
+  height: 1000px;
+}
+</style>
+<div class="textbottoms">
+  Contact Us
+</div>
+
+<div class="footer">
+<div class="footer-bottom">
+   Telp: 3819293202&emsp;E-mail: Baebul.ind@gmail.com
+  </div>
+</div>
+    </div>
+<link href="https://fonts.googleapis.com/css2?family=Eczar:wght@500&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Eczar:wght@500&family=Vidaloka&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Eczar:wght@500&family=Vidaloka&family=Yeseva+One&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@600&family=Eczar:wght@500&family=Vidaloka&family=Yeseva+One&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@600&family=Cantata+One&family=Eczar:wght@500&family=Vidaloka&family=Yeseva+One&display=swap" rel="stylesheet">
